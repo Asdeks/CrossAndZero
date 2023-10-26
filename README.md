@@ -5,7 +5,7 @@ For real i maid that project 2 years ago.
 Now i publishing my project on GitHub for my small portfolio. 
 Because i try to find developers for my project or work for my finance grow :)
 
-//int main () {
+int main () {
  String I;
  String you;
   If (you == (LIKE THIS PROJECT)) {
@@ -13,7 +13,5 @@ Because i try to find developers for my project or work for my finance grow :)
   }
   return 0; 
 }
-//
-
 
 THX for your attention.
