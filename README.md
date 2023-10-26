@@ -1,17 +1,18 @@
 ### Hi there 👋
-i'm currently working on "Cross and Zero" for my portfolio. That project show how i can use C++ and my lvl on "Functions" and so on. 
+i'm currently working on "Cross and Zero" for my portfolio. That project show how i can use C++, C  and my lvl on "Functions" and so on. 
 
-<!--
-**Asdeks/Asdeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For real i maid that project 2 years ago. 
+Now i publishing my project on GitHub for my small portfolio. 
+Because i try to find developers for my project or work for my finance grow :)
 
-Here are some ideas to get you started:
+int main () {
+ String I;
+ String you;
+  If (you == (LIKE THIS PROJECT)) {
+    I == "will become happy"
+  }
+  return 0;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+THX for your attention.
