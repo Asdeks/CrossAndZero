@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Cross_and_zeroes.cpp
+d:\develop\cross_and_zeroes\cross_and_zeroes\cross_and_zeroes.cpp(105): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cross_and_zeroes.vcxproj -> D:\Develop\Cross_and_zeroes\Debug\Cross_and_zeroes.exe

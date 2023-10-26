@@ -1,0 +1,21 @@
+#include <iostream>
+
+
+using namespace std;
+
+
+int main (){
+    int choise;
+    cout << "Выберите действие:" << endl;
+    cout << "1) Добавить задачу" << endl;
+    cout << "2) Удалить задачу" << endl;
+    cout << "3) Переименовать задачу" << endl;
+    cin << choise;
+
+    if (choise == 1) {
+        string word;       
+        cout << "Напишите название задачи:" << endl;
+        cin << Mission;
+    }
+    return 0 ;
+}
