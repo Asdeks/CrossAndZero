@@ -1,4 +1,5 @@
 ### Hi there 👋
+i'm currently working on "Cross and Zero" for my portfolio. That project show how i can use C++ and my lvl on "Functions" and so on. 
 
 <!--
 **Asdeks/Asdeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
